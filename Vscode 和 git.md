@@ -34,3 +34,4 @@
 
 更改--暂存--提交暂存--推送
 
+git push --set-upstream https://github.com/asdfgji/notebook.git master
