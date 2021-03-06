@@ -90,7 +90,7 @@ void main()
 
 ![我的图片](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1819216937,2118754409&fm=26&gp=0.jpg)
 
-![猫猫](image/a.jpg)
+![猫猫](./image/a.jpg)
 
 <img src="http://upload-images.jianshu.io/upload_images/1503319-c696a9cd1495d68f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/> 
 
