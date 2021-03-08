@@ -35,3 +35,14 @@
 更改--暂存--提交暂存--推送
 
 git push --set-upstream https://github.com/asdfgji/notebook.git master
+
+## 4. 终端不能输入
+
+设置--搜索run code in int...勾选；
+
+# 5. 终端显示中文异常
+
+在终端输入：chcp 65001
+
+将编码格式修改为utf-8；
+
